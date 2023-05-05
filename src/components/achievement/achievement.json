@@ -1,0 +1,91 @@
+{
+  "collectionName": "components_achievement_achievements",
+  "info": {
+    "displayName": "Achievement",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "text"
+    },
+    "title2": {
+      "type": "string"
+    },
+    "desc2": {
+      "type": "text"
+    },
+    "title3": {
+      "type": "string"
+    },
+    "desc3": {
+      "type": "text"
+    },
+    "title4": {
+      "type": "string"
+    },
+    "desc4": {
+      "type": "text"
+    },
+    "title5": {
+      "type": "string"
+    },
+    "desc5": {
+      "type": "text"
+    },
+    "images": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "images2": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "images3": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "images4": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "images5": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
